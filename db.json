@@ -1,0 +1,37 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "ABCD",
+      "posterPath": "../"
+    },
+    {
+      "id": 2,
+      "title": "DON",
+      "posterPath": "../"
+    },
+    {
+      "id": 3,
+      "title": "House Full",
+      "posterPath": "../"
+    }
+  ],
+  "favourites": [
+    {
+      "voteCount": 0,
+      "id": 444143,
+      "video": false,
+      "voteAverage": 0,
+      "title": "A Unique Movie",
+      "popularity": 2.474547,
+      "posterPath": "../images/A_Unique_Movie.jpg",
+      "adult": false,
+      "releaseDate": "2017-03-07"
+    },
+    {
+      "id": 1,
+      "title": "ABCD",
+      "posterPath": "../"
+    }
+  ]
+}
